@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+   
+}
+
+.container {
+display: inline-block;
+justify-content: center;
+background-color: white !important;
+min-height: 70vh;
+margin-top: 40px !important;
+width: 30%;
+margin: 0 70px;
+box-shadow: 0 0 10px rgba(1, 1, 1, 0.1);
+transition: transform 0.2s;
+    
+}
+.attribution { 
+    font-size: 11px;
+     text-align: center;
+     color: hsl(228, 45%, 44%); 
+    }
+
+    p {
+        color: blue;
+    }
+    
+    .p1 {
+        color: #BEBEBF;
+    }
